@@ -54,13 +54,13 @@ public class ProductSearch {
         System.out.println();
         System.out.print("Enter the number of products: ");
         int numberOfProducts = scanner.nextInt();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine(); 
 
         Product[] products = new Product[numberOfProducts];
         for (int i = 0; i < numberOfProducts; i++) {
             System.out.print("Enter product ID for product " + (i + 1) + ": ");
             int productId = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine(); 
 
             System.out.print("Enter product name for product " + (i + 1) + ": ");
             String productName = scanner.nextLine();
