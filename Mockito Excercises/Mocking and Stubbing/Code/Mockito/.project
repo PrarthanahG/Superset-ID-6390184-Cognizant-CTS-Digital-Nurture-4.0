@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>AAAPattern</name>
+	<name>mockito</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1751120578066</id>
+			<id>1751124644402</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
